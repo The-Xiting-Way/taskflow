@@ -1,0 +1,1 @@
+replace envs to run with your own supabase project in .env
